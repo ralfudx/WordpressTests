@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wordpress.Tests", "Wordpress.Tests\Wordpress.Tests.csproj", "{B4562B96-3153-4DB9-A075-61627520DED7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4562B96-3153-4DB9-A075-61627520DED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4562B96-3153-4DB9-A075-61627520DED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4562B96-3153-4DB9-A075-61627520DED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4562B96-3153-4DB9-A075-61627520DED7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D8E0AB3-3D20-478B-BE08-F07D9230A781}
+	EndGlobalSection
+EndGlobal

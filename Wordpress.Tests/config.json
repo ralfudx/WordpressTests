@@ -1,0 +1,45 @@
+{
+  "appurl": "https://wordpress.com/",
+  "landingPagetitle": "WordPress.com: Create a Free Website or Blog",
+  "getStartedPagetitle": "Create a site — WordPress.com",
+  "getStartedHeaderText": "Let's get started",
+  "siteTypePageHeaderText": "What kind of site are you building?",
+  "blogTopicHeaderText": "What is your blog about?",
+  "blogTopicText": "Testing",
+  "blogTitleHeaderText": "Tell us your blog's name",
+  "blogTitleText": "Test Automation Blog",
+  "blogDomainHeaderText": "Let's get your blog a domain!",
+  "blogDomainHeaderText2": "Give your blog an address",
+  "blogDomainText": "fangatu.com",
+  "selectPlanHeaderText": "Pick a plan that's right for you.",
+  "checkoutHeaderText": "Your WordPress.com site is ready! Finish your purchase to get the most out of it.",
+  "paymentHeaderText": "Great choice! How would you like to pay?",
+
+  "loginPagetitle": "Log In — WordPress.com",
+  "loginHeaderText": "Log in to your account",
+  "loggedInPagetitle": "Following ‹ Reader — WordPress.com",
+
+  "appleSignInPagetitle": "Sign in with Apple ID",
+
+  "firstUserDetails": {
+    "email": "email35007881@gmail.com",
+    "username": "user35705628",
+    "password": "pass38125431"
+  },
+
+  "_comment": "please add your personal email & password for google and apple login",
+  "personalDetails": {
+    "googleEmail": "ralfudx@gmail.com",
+    "googlePassword": "Datsmalboy1",
+    "appleId": "ralfudx@gmail.com",
+    "applePassword": "Datsmalboy1",
+    "firstName": "Raphael",
+    "lastName": "Edwards",
+    "phoneNumber": "07088363528",
+    "country": "Nigeria",
+    "address": "17 Atanda Street Shogunle",
+    "city": "Oshodi",
+    "state": "Lagos",
+    "postalCode": "100101"
+  }
+}
